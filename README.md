@@ -40,14 +40,14 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 To be determined...
 
 ## Workshop Schedule
-| Day 1                                     	|
+# Day One                                   	|
 | Time    	| Speaker   	| Title            	|
 |---------	|-----------	|------------------	|
 | 9:00 am 	| Dawn Song 	| Dataset Security 	|
 |         	|           	|                  	|
 |         	|           	|                  	|
 
-| Day 2                                     	|
+# Day Two                                  	|
 | Time    	| Speaker   	    | Title            	|
 |---------	|---------------	|------------------	|
 | 9:00 am 	| Darrell M. West	| Policy + Privacy	|
