@@ -41,6 +41,7 @@ To be determined...
 
 ## Workshop Schedule
 # Day One 
+
 | Time    	| Speaker   	| Title            	|
 |---------	|-----------	|------------------	|
 | 9:00 am 	| Dawn Song 	| Dataset Security 	|
@@ -48,6 +49,7 @@ To be determined...
 |         	|           	|                  	|
 
 # Day Two 
+
 | Time    	| Speaker   	    | Title            	|
 |---------	|---------------	|------------------	|
 | 9:00 am 	| Darrell M. West	| Policy + Privacy	|
