@@ -29,7 +29,7 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 **Micah Goldblum,** University of Maryland. (inster bio)
 
-**Tom Goldstein,** University of Maryland. (instert bio)
+<img src="tom_headshot_small.jpg" width="200"> **Tom Goldstein,** University of Maryland. (instert bio)
 
 **Bo Li,** University of Illinois at Urbana-Champaign. (instert bio)
 
