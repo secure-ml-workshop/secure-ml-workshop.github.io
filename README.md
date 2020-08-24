@@ -33,14 +33,14 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 **Bo Li,** University of Illinois at Urbana-Champaign. (instert bio)
 
-**Avi Schwarzschild,** University of Maryland. (inster bio)
+**Avi Schwarzschild,** University of Maryland. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
 
 ## Program Committee
 To be determined...
 
 ## Workshop Schedule
-# Day One 
+### Day One 
 
 | Time    	| Speaker   	| Title            	|
 |---------	|-----------	|------------------	|
@@ -48,7 +48,7 @@ To be determined...
 |         	|           	|                  	|
 |         	|           	|                  	|
 
-# Day Two 
+### Day Two 
 
 | Time    	| Speaker   	    | Title            	|
 |---------	|---------------	|------------------	|
