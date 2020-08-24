@@ -3,13 +3,13 @@
 A workshop to address major issues that arise in dataset curation and security. Classicalmachine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand.
 
 ## Invited Speakers
-**Dawn Song,** UC Berkeley. (insert bio)
+**Dawn Song,** _UC Berkeley_. (insert bio)
 
-**Darrell M. West,** Brookings Institution. (insert bio)
+**Darrell M. West,** _Brookings Institution_. (insert bio)
 
-**Jamie Morgenstern,** University of Washington. (insert bio)
+**Jamie Morgenstern,** University of Washington_. (insert bio)
 
-**Rob Nowak,** University of Wisconsin. (insert bio)
+**Rob Nowak,** _University of Wisconsin_. (insert bio)
 
 ## Call For Papers
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submission are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
@@ -17,23 +17,23 @@ We are accepting submissions no longer than _four pages (plus references)_, in [
 Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 ## Organizers
-**Nathalie Baracaldo,** IBM. (insert bio)
+**Nathalie Baracaldo,** _IBM_. (insert bio)
 
-**Yonatan Bisk,** Carnegie Mellon University. (insert bio)
+**Yonatan Bisk,** _Carnegie Mellon University_. (insert bio)
 
-**Avrim Blum,** TTIC. (insert bio)
+**Avrim Blum,** _TTIC_. (insert bio)
 
-**Michael J. Curry,** University of Maryland. (insert bio)
+**Michael J. Curry,** _University of Maryland_. (insert bio)
 
-**John P. Dickerson,** University of Maryland. (insert bio)
+**John P. Dickerson,** _University of Maryland_. (insert bio)
 
-**Micah Goldblum,** University of Maryland. (inster bio)
+**Micah Goldblum,** _University of Maryland_. (inster bio)
 
-<img src="tom_headshot_small.jpg" width="200"> **Tom Goldstein,** University of Maryland. (instert bio)
+<img src="tom_headshot_small.jpg" width="200"> **Tom Goldstein,** _University of Maryland_. (instert bio)
 
-**Bo Li,** University of Illinois at Urbana-Champaign. (instert bio)
+**Bo Li,** _University of Illinois at Urbana-Champaign_. (instert bio)
 
-**Avi Schwarzschild,** University of Maryland. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
+**Avi Schwarzschild,** _University of Maryland_. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
 
 ## Program Committee
