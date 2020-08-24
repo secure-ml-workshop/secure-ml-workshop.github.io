@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## Workshop on data security - NeurIPS 2020
 
-You can use the [editor on GitHub](https://github.com/secure-ml-workshop/secure-ml-workshop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A workshop to address major issues that arise in dataset curation and security. Classicalmachine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Invited Speakers
+**Dawn Song,** UC Berkeley. (insert bio)
 
-### Markdown
+**Darrell M. West,** Brookings Institution. (insert bio)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Jamie Morgenstern,** University of Washington. (insert bio)
 
-```markdown
-Syntax highlighted code block
+**Rob Nowak,** University of Wisconsin. (insert bio)
 
-# Header 1
-## Header 2
-### Header 3
+## Call For Papers
+We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submission are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
 
-- Bulleted
-- List
+Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
-1. Numbered
-2. List
+## Organizers
+**Nathalie Baracaldo,** IBM. (insert bio)
 
-**Bold** and _Italic_ and `Code` text
+**Yonatan Bisk,** Carnegie Mellon University. (insert bio)
 
-[Link](url) and ![Image](src)
-```
+**Avrim Blum,** TTIC. (insert bio)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Michael J. Curry,** University of Maryland. (insert bio)
 
-### Jekyll Themes
+**John P. Dickerson,** University of Maryland. (insert bio)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/secure-ml-workshop/secure-ml-workshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Micah Goldblum,** University of Maryland. (inster bio)
 
-### Support or Contact
+**Tom Goldstein,** University of Maryland. (instert bio)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Bo Li,** University of Illinois at Urbana-Champaign. (instert bio)
+
+**Avi Schwarzschild,** University of Maryland. (inster bio)
+
+
+## Program Committee
+To be determined...
+
+## Workshop Schedule
+| Day 1                                     	|
+| Time    	| Speaker   	| Title            	|
+|---------	|-----------	|------------------	|
+| 9:00 am 	| Dawn Song 	| Dataset Security 	|
+|         	|           	|                  	|
+|         	|           	|                  	|
+
+| Day 2                                     	|
+| Time    	| Speaker   	    | Title            	|
+|---------	|---------------	|------------------	|
+| 9:00 am 	| Darrell M. West	| Policy + Privacy	|
+|         	|           	    |                  	|
+|         	|           	    |                  	|
