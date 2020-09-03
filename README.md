@@ -1,17 +1,19 @@
 ## Workshop on data security - NeurIPS 2020
 
-A workshop to address major issues that arise in dataset curation and security. Classicalmachine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand.
+Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
+
+We have identified four areas of interest: Dataset security, policy and privacy, Dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. See the [call for papers](#cfp) below for more details.
 
 ## Invited Speakers
-**Dawn Song,** _UC Berkeley_. (insert bio)
+**Dawn Song,** _UC Berkeley_. (insert bio + abstract)
 
-**Darrell M. West,** _Brookings Institution_. (insert bio)
+**Darrell M. West,** _Brookings Institution_. (insert bio + abstract)
 
-**Jamie Morgenstern,** University of Washington_. (insert bio)
+**Jamie Morgenstern,** _University of Washington_. (insert bio + abstract)
 
-**Rob Nowak,** _University of Wisconsin_. (insert bio)
+**Rob Nowak,** _University of Wisconsin_. (insert bio + abstract)
 
-## Call For Papers
+## Call For Papers <a name="cfp".</a>
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submission are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
 
 Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
