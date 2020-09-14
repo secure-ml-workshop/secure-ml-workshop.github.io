@@ -1,4 +1,4 @@
-## Workshop on data security - NeurIPS 2020
+# Workshop on Dataset Curation and Security - NeurIPS 2020
 
 Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
 
@@ -9,7 +9,7 @@ We have identified four areas of interest: Dataset security, policy and privacy,
 
 **Darrell M. West,** _Brookings Institution_. (insert bio + abstract)
 
-**Jamie Morgenstern,** _University of Washington_. (insert bio + abstract)
+**Yejin Choi,**, _University of Washington_. (bio here) 
 
 **Rob Nowak,** _University of Wisconsin_. (insert bio + abstract)
 
