@@ -13,7 +13,7 @@ We have identified four areas of interest: Dataset security, policy and privacy,
 
 **Rob Nowak,** _University of Wisconsin_. (insert bio + abstract)
 
-## Call For Papers <a name="cfp".</a>
+## Call For Papers <a name="cfp"></a>
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submission are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
 
 Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
