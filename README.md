@@ -2,19 +2,19 @@
 
 Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
 
-We have identified four areas of interest: Dataset security, policy and privacy, Dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. See the [call for papers](#cfp) below for more details.
+We have identified four areas of interest: Dataset security, policy and privacy, dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. Broadly, this workshop is about data, so if your work is on datasets, their curation and impact, then this workshop is for you! See the [call for papers](#cfp) below for more details.
 
 ## Invited Speakers
-**Dawn Song,** _UC Berkeley_. (insert bio + abstract)
+**[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
 
-**Darrell M. West,** _Brookings Institution_. (insert bio + abstract)
+**[Darrell M. West](https://www.brookings.edu/experts/darrell-m-west/),** _Brookings Institution_.
 
-**Yejin Choi,**, _University of Washington_. (bio here) 
+**[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
 
-**Rob Nowak,** _University of Wisconsin_. (insert bio + abstract)
+**[Rob Nowak](https://nowak.ece.wisc.edu/),** _University of Wisconsin_.
 
 ## Call For Papers <a name="cfp"></a>
-We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submission are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
+We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
 
 Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
@@ -31,22 +31,22 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 **Micah Goldblum,** _University of Maryland_.  is a postdoctoral researcher, advised by Tom Goldstein, in computer science at the University of Maryland.  He works on security in AI as well as AI in the data-scarce regime. 
 
-<img src="tom_headshot_small.jpg" width="200"> **Tom Goldstein,** _University of Maryland_. is the Perotto Associate Professor of Machine Learning in the Department of Computer Science at University of Maryland. His research lies at the intersection of machine learning and optimization, and focuses on safety and security for autonomous systems.
+**Tom Goldstein,** _University of Maryland_. is the Perotto Associate Professor of Machine Learning in the Department of Computer Science at University of Maryland. His research lies at the intersection of machine learning and optimization, and focuses on safety and security for autonomous systems.
 
 **Bo Li,** _University of Illinois at Urbana-Champaign_. is an assistant professor in Computer Science at the University of Illinois at Urbana-Champaign. Her research focuses on machine learning, security, privacy, game theory, social networks, and adversarial deep learning. She has designed several robust learning algorithms, scalable frameworks for achieving robustness for a range of learning methods, and privacy preserving data publishing systems.
 
 **Avi Schwarzschild,** _University of Maryland_. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
-## Program Committee
-To be determined...
+%## Program Committee
+%To be determined...
 
-## Workshop Schedule
+%## Workshop Schedule
 
-### Day One 
+%### Day One 
 
-| Time    	| Speaker   	| Title            	|
-|---------	|-----------	|------------------	|
-| 9:00 am 	| Dawn Song 	| Dataset Security 	|
-|         	|           	|                  	|
-|         	|           	|                  	|
+%| Time    	| Speaker   	| Title            	|
+%|---------	|-----------	|------------------	|
+%| 9:00 am 	| Dawn Song 	| Dataset Security 	|
+%|         	|           	|                  	|
+%|         	|           	|                  	|
 
