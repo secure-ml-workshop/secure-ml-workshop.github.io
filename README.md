@@ -29,7 +29,7 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 **John P. Dickerson,** _University of Maryland_. is an Assistant Professor of Computer Science at the University of Maryland and co-founder and Chief Scientist of Arthur AI, an enterprise-focused AI/ML model monitoring company.
 
-**Micah Goldblum,** _University of Maryland_.  is a postdoctoral researcher, advised by Tom Goldstein, in computer science at the University of Maryland.  He works on security in AI as well as AI in the data-scarce regime. 
+**Micah Goldblum,** _University of Maryland_.  is a postdoctoral researcher, advised by Tom Goldstein, in computer science at the University of Maryland.  He works on security in AI as well as ML in the data-scarce regime. 
 
 **Tom Goldstein,** _University of Maryland_. is the Perotto Associate Professor of Machine Learning in the Department of Computer Science at University of Maryland. His research lies at the intersection of machine learning and optimization, and focuses on safety and security for autonomous systems.
 
