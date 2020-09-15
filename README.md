@@ -19,7 +19,7 @@ We are accepting submissions no longer than _four pages (plus references)_, in [
 Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 ## Organizers
-**Nathalie Baracaldo,** _IBM_. leads the AI Security and Privacy Solutions team and is a Research Staff Member at IBM’s Almaden Research Center in San Jose, CA. Nathalie is focuses on designing machine learning solutions that are accurate while withstanding adversarial attacks and protect data privacy.
+**Nathalie Baracaldo,** _IBM_. leads the AI Security and Privacy Solutions team and is a Research Staff Member at IBM’s Almaden Research Center in San Jose, CA. Nathalie is focused on designing machine learning solutions that are accurate while withstanding adversarial attacks and protecting data privacy.
 
 **Yonatan Bisk,** _Carnegie Mellon University_. is an Assistant Professor of Computer Science at Carnegie Mellon University in Language Technologies Institute. His work focuses on grounded and multimodal language representations and publishes regularly across the language, computer vision, robotics and machine learning community.
 
