@@ -37,16 +37,16 @@ Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
 **Avi Schwarzschild,** _University of Maryland_. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
-%## Program Committee
-%To be determined...
+<!-- ## Program Committee
+To be determined... -->
 
-%## Workshop Schedule
+<!-- ## Workshop Schedule -->
 
-%### Day One 
+<!-- ### Day One  -->
 
-%| Time    	| Speaker   	| Title            	|
-%|---------	|-----------	|------------------	|
-%| 9:00 am 	| Dawn Song 	| Dataset Security 	|
-%|         	|           	|                  	|
-%|         	|           	|                  	|
+<!-- | Time    	| Speaker   	| Title            	|
+|---------	|-----------	|------------------	|
+| 9:00 am 	| Dawn Song 	| Dataset Security 	|
+|         	|           	|                  	|
+|         	|           	|                  	| -->
 
