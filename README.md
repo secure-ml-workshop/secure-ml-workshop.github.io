@@ -2,7 +2,7 @@
 
 Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
 
-We have identified four areas of interest: Dataset security, policy and privacy, dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. Broadly, this workshop is about data, so if your work is on datasets, their curation and impact, then this workshop is for you! See the [call for papers](#cfp) below for more details. If you have any questions, please reach out to Micah Goldblum (goldblumcello@gmail.com).
+We have identified four areas of interest: Dataset security, policy and privacy, dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. Broadly, this workshop is about data, so if your work is on datasets, their curation and impact, then this workshop is for you! See the [call for papers](#cfp) below for more details. If you have any questions, please reach out to Micah Goldblum (<goldblumcello@gmail.com>).
 
 ## Invited Speakers
 **[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
@@ -11,7 +11,13 @@ We have identified four areas of interest: Dataset security, policy and privacy,
 
 **[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
 
-**[Rob Nowak](https://nowak.ece.wisc.edu/),** _University of Wisconsin_.
+**Dataset Curation via Active Learning with [Rob Nowak](https://nowak.ece.wisc.edu/),** 
+_Robert Nowak holds the Nosbusch Professorship in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics._ 
+
+_Abstract_: The field of Machine Learning (ML) has advanced considerably in recent years, but mostly in well-defined domains using huge amounts of human-labeled training data. Machines can recognize objects in images and translate text, but they must be trained with more images and text than a person can see in nearly a lifetime.  The computational complexity of training has been offset by recent technological advances, but the cost of training data is measured in terms of the human effort in labeling data. People are not getting faster nor cheaper, so generating labeled training datasets has become a major bottleneck in ML pipelines. 
+
+Active ML aims to address this issue by designing learning algorithms that automatically and adaptively select the most informative examples for labeling so that human time is not wasted labeling irrelevant, redundant, or trivial examples. This talk explores the development of active ML theory and methods over the past decade, including a new approach applicable to kernel methods and neural networks, which views the learning problem through the lens of representer theorems. This perspective highlights the effect that adding a given training example has on the representation.   The new approach is shown to possess a variety of desirable mathematical properties that allow active learning algorithms to learn good classifiers from few labeled examples.
+
 
 **[Liz O'Sullivan](https://www.lizjosullivan.com/),** _Surveillance Technology Oversight Project (STOP) & Arthur_.
 
