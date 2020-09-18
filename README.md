@@ -5,11 +5,14 @@ Classical machine learning research has been focused largely on models,  optimiz
 We have identified four areas of interest: Dataset security, policy and privacy, dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. Broadly, this workshop is about data, so if your work is on datasets, their curation and impact, then this workshop is for you! See the [call for papers](#cfp) below for more details. If you have any questions, please reach out to Micah Goldblum (<goldblumcello@gmail.com>).
 
 ## Invited Speakers
-**[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
+
+**[Aleksander Mądry](https://people.csail.mit.edu/madry/),** _MIT_.
 
 **[Darrell M. West](https://www.brookings.edu/experts/darrell-m-west/),** _Brookings Institution_.
 
-**[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
+**[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
+
+**[Liz O'Sullivan](https://www.lizjosullivan.com/),** _Surveillance Technology Oversight Project (STOP) & Arthur_.
 
 **[Rob Nowak](https://nowak.ece.wisc.edu/),** 
 _Robert Nowak holds the Nosbusch Professorship in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics._ 
@@ -18,8 +21,7 @@ _Robert Nowak holds the Nosbusch Professorship in Engineering at the University 
 > 
 >Active ML aims to address this issue by designing learning algorithms that automatically and adaptively select the most informative examples for labeling so that human time is not wasted labeling irrelevant, redundant, or trivial examples. This talk explores the development of active ML theory and methods over the past decade, including a new approach applicable to kernel methods and neural networks, which views the learning problem through the lens of representer theorems. This perspective highlights the effect that adding a given training example has on the representation.   The new approach is shown to possess a variety of desirable mathematical properties that allow active learning algorithms to learn good classifiers from few labeled examples.
 
-
-**[Liz O'Sullivan](https://www.lizjosullivan.com/),** _Surveillance Technology Oversight Project (STOP) & Arthur_.
+**[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
 
 ## Call For Papers <a name="cfp"></a>
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
