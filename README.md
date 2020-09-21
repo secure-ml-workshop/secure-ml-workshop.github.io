@@ -24,7 +24,7 @@ _Robert Nowak holds the Nosbusch Professorship in Engineering at the University 
 **[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
 
 ## Call For Papers <a name="cfp"></a>
-We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. We will not accept work that has been previously included in conference proceedings.
+We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. <!-- We will not accept work that has been previously included in conference proceedings. -->
 
 The submission deadline is Sunday October 11th, 2020 anywhere on Earth. Submission link: [Not yet set up.](https://youtu.be/eo5Wr0Ndd68?t=42)
 
