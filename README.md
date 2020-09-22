@@ -12,7 +12,8 @@ We have identified four areas of interest: Dataset security, policy and privacy,
 
 **[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
 
-**[Liz O'Sullivan](https://www.lizjosullivan.com/),** _Surveillance Technology Oversight Project (STOP) & Arthur_.
+**[Liz O'Sullivan](https://www.lizjosullivan.com/),** 
+_Liz O’Sullivan co-founded Arthur AI, an AI monitoring and explainability company, where she serves as Vice President of Commercial Operations. She has been working in the AI space since 2012, delivering large-scale AI projects across industries to Fortune 500 clients. Most recently, she headed data labeling at computer vision AI startup Clarifai, which is where she first held responsibility for reducing model bias through a well-managed annotations pipeline. Liz also acts as Technology Director for STOP (the Surveillance Technology Oversight Project) where she works on New York City and State policy to protect personal privacy from the ever-growing surveillance state. She has been an active voice in the AI ethics movement, and has been featured in numerous media outlets discussing data privacy and ethical AI. Liz is an active member of the Campaign to Stop Killer Robots and advocates on their behalf to US legislative bodies, federal agencies, and at the UN._
 
 **[Rob Nowak](https://nowak.ece.wisc.edu/),** 
 _Robert Nowak holds the Nosbusch Professorship in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics._ 
