@@ -27,7 +27,7 @@ _Robert Nowak holds the Nosbusch Professorship in Engineering at the University 
 ## Call For Papers <a name="cfp"></a>
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. <!-- We will not accept work that has been previously included in conference proceedings. -->
 
-The submission deadline is Sunday October 11th, 2020 anywhere on Earth. Submission link: [CMT site](https://cmt3.research.microsoft.com/WDCS2020)
+The submission deadline is Sunday October 11th, 2020 anywhere on Earth. Submission link: [CMT site](https://cmt3.research.microsoft.com/WDCS2020). If you experience any problems with the submission site, please email Michael Curry (<curry@cs.umd.edu>).
 
 ## Organizers
 **Nathalie Baracaldo,** _IBM_. leads the AI Security and Privacy Solutions team and is a Research Staff Member at IBM’s Almaden Research Center in San Jose, CA. Nathalie is focused on designing machine learning solutions that are accurate while withstanding adversarial attacks and protecting data privacy.
