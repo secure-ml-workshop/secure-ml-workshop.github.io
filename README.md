@@ -4,6 +4,12 @@ Classical machine learning research has been focused largely on models,  optimiz
 
 We have identified four areas of interest: Dataset security, policy and privacy, dataset bias, and data scraping and labeling. In addition to the invited speakers listed below, we are excited to invite paper submissions on the topics of data poisoning and backdoor attacks, data sanitization, dataset bias, and dataset privacy. Broadly, this workshop is about data, so if your work is on datasets, their curation and impact, then this workshop is for you! See the [call for papers](#cfp) below for more details. If you have any questions, please reach out to Micah Goldblum (<goldblumcello@gmail.com>).
 
+## Update -- templates for camera-ready submission
+
+Please use the following modified version of the NeurIPS 2020 template for your camera-ready submission: [wdcs2020.sty](templates/wdcs2020.sty).
+
+For posters, we recommend using the following modified NeurIPS poster templates: [keynoteTemplate.key](templates/keynoteTemplate.key), [pptTemplate.pptx](templates/pptTemplate.pptx).
+
 ## Invited Speakers
 
 **[Aleksander Mądry](https://people.csail.mit.edu/madry/),** _MIT_.
