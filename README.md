@@ -13,6 +13,12 @@ For posters, we recommend using the following modified NeurIPS poster templates:
 ## Invited Speakers
 
 **[Aleksander Mądry](https://people.csail.mit.edu/madry/),** _MIT_.
+>**What Do Our Models Learn?** Large-scale vision benchmarks have driven—and often even defined—progress in machine learning. However, these benchmarks are merely proxies for the real-world tasks we actually care about. How well do our benchmarks capture such tasks?
+>
+>In this talk, I will discuss the alignment between our benchmark-driven ML paradigm and the real-world uses cases that motivate it. First, we will explore examples of biases in the ImageNet dataset, and how state-of-the-art models exploit them. We will then demonstrate how these biases arise as a result of design choices in the data collection and curation processes.
+>
+>Throughout, we illustrate how one can leverage relatively standard tools (e.g., crowdsourcing, image processing) to quantify the biases that we observe.
+Based on joint works with Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras and Kai Xiao.
 
 **[Darrell M. West](https://www.brookings.edu/experts/darrell-m-west/),** _Brookings Institution_.
 
