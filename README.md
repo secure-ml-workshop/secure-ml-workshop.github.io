@@ -24,8 +24,8 @@ Based on joint works with Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimit
 
 **[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/?_ga=2.130447496.627426393.1600173880-497787535.1600173880),** _UC Berkeley_.
 
-**[Liz O'Sullivan](https://www.lizjosullivan.com/),** 
-_Liz O’Sullivan co-founded Arthur AI, an AI monitoring and explainability company, where she serves as Vice President of Commercial Operations. She has been working in the AI space since 2012, delivering large-scale AI projects across industries to Fortune 500 clients. Most recently, she headed data labeling at computer vision AI startup Clarifai, which is where she first held responsibility for reducing model bias through a well-managed annotations pipeline. Liz also acts as Technology Director for STOP (the Surveillance Technology Oversight Project) where she works on New York City and State policy to protect personal privacy from the ever-growing surveillance state. She has been an active voice in the AI ethics movement, and has been featured in numerous media outlets discussing data privacy and ethical AI. Liz is an active member of the Campaign to Stop Killer Robots and advocates on their behalf to US legislative bodies, federal agencies, and at the UN._
+**[Liz O'Sullivan](https://www.lizjosullivan.com/)**, _Arthur AI_
+>**Don't Steal Data**
 
 **[Rob Nowak](https://nowak.ece.wisc.edu/),** 
 _Robert Nowak holds the Nosbusch Professorship in Engineering at the University of Wisconsin-Madison, where his research focuses on signal processing, machine learning, optimization, and statistics._ 
@@ -35,6 +35,7 @@ _Robert Nowak holds the Nosbusch Professorship in Engineering at the University 
 >Active ML aims to address this issue by designing learning algorithms that automatically and adaptively select the most informative examples for labeling so that human time is not wasted labeling irrelevant, redundant, or trivial examples. This talk explores the development of active ML theory and methods over the past decade, including a new approach applicable to kernel methods and neural networks, which views the learning problem through the lens of representer theorems. This perspective highlights the effect that adding a given training example has on the representation.   The new approach is shown to possess a variety of desirable mathematical properties that allow active learning algorithms to learn good classifiers from few labeled examples.
 
 **[Yejin Choi](https://homes.cs.washington.edu/~yejin/),** _University of Washington_.
+>**Adversarial, Socially Aware, and Commonsensical Data**
 
 ## Call For Papers <a name="cfp"></a>
 We are accepting submissions no longer than _four pages (plus references)_, in [NeurIPS 2020 format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). We ask that submissions are anonymized as the review process is _double blind_. <!-- We will not accept work that has been previously included in conference proceedings. -->
