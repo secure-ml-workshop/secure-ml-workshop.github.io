@@ -64,12 +64,13 @@ The submission deadline is ~~Sunday October 11th, 2020~~ Thursday, October 15th,
 **Avi Schwarzschild,** _University of Maryland_. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
 ## Accepted Papers
-**Backdoor attacks on the DNN Interpretation System** by Shihong Fang (NYU Tandon) and Anna Choromanska (NYU): [camera ready](./2.pdf)
+**Backdoor attacks on the DNN Interpretation System** by Shihong Fang (NYU Tandon) and Anna Choromanska (NYU): [camera ready](./camera_ready/2.pdf)
 
-**Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders** by Vito Walter Anelli (Polytechnic University of Bari), Tommaso Di Noia (Politecnico di Bari), Daniele Malitesta (Polytechnic University of Bari), and Felice Antonio Merra (Politecnico di Bari): [camera ready](./3.pdf)
+**Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders** by Vito Walter Anelli (Polytechnic University of Bari), Tommaso Di Noia (Politecnico di Bari), Daniele Malitesta (Polytechnic University of Bari), and Felice Antonio Merra (Politecnico di Bari): [camera ready](./camera_ready/3.pdf)
 
-**Which Strategies Matter for Label Noise? Insight into Loss and Uncertainty** by Wonyoung Shin (Naver Shopping, NAVER Corp.), Jung-Woo Ha (NAVER AI, NAVER Corp.), Shengzhe Li (Naver Shopping, NAVER Corp.), Yongwoo Cho (Naver Shopping, NAVER Corp.), Hoyean Song (Self-employed), and Sunyoung Kwon (Pusan National University): [camera ready](./5.pdf)
+**Which Strategies Matter for Label Noise? Insight into Loss and Uncertainty** by Wonyoung Shin (Naver Shopping, NAVER Corp.), Jung-Woo Ha (NAVER AI, NAVER Corp.), Shengzhe Li (Naver Shopping, NAVER Corp.), Yongwoo Cho (Naver Shopping, NAVER Corp.), Hoyean Song (Self-employed), and Sunyoung Kwon (Pusan National University): [camera ready](./camera_ready/5.pdf)
 
+**Similarity Search for Efficient Active Learning and Search of Rare Concepts** by Cody Coleman (Stanford), Edward Chou (Facebook), Sean Culatana (Facebook), Peter Bailis (Stanford University), Alexander Berg (University of North Carolina, USA), Roshan Sumbaly (Facebook), Matei Zaharia (Stanford and Databricks), Zeki Yalniz (Facebook): [camera ready](./camera_ready/6.pdf)
 
 <!-- ## Program Committee
 To be determined... -->
