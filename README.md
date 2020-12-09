@@ -64,13 +64,63 @@ The submission deadline is ~~Sunday October 11th, 2020~~ Thursday, October 15th,
 **Avi Schwarzschild,** _University of Maryland_. Avi is a PhD student in the Applied Math and Scientific Computation program at the University of Maryland. He is advised by Tom Goldstein on his work in AI security, relating to data security and model vulnerability.
 
 ## Accepted Papers
-**Backdoor attacks on the DNN Interpretation System** by Shihong Fang (NYU Tandon) and Anna Choromanska (NYU): [camera ready](./camera_ready/2.pdf)
+**Backdoor attacks on the DNN Interpretation System** Shihong Fang (NYU Tandon), Anna Choromanska (NYU): [camera ready](./camera_ready/2.pdf)
 
-**Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders** by Vito Walter Anelli (Polytechnic University of Bari), Tommaso Di Noia (Politecnico di Bari), Daniele Malitesta (Polytechnic University of Bari), and Felice Antonio Merra (Politecnico di Bari): [camera ready](./camera_ready/3.pdf)
+**Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders** Vito Walter Anelli (Polytechnic University of Bari), Tommaso Di Noia (Politecnico di Bari), Daniele Malitesta (Polytechnic University of Bari), Felice Antonio Merra (Politecnico di Bari): [camera ready](./camera_ready/3.pdf)
 
-**Which Strategies Matter for Label Noise? Insight into Loss and Uncertainty** by Wonyoung Shin (Naver Shopping, NAVER Corp.), Jung-Woo Ha (NAVER AI, NAVER Corp.), Shengzhe Li (Naver Shopping, NAVER Corp.), Yongwoo Cho (Naver Shopping, NAVER Corp.), Hoyean Song (Self-employed), and Sunyoung Kwon (Pusan National University): [camera ready](./camera_ready/5.pdf)
+**Which Strategies Matter for Label Noise? Insight into Loss and Uncertainty** Wonyoung Shin (Naver Shopping, NAVER Corp.), Jung-Woo Ha (NAVER AI, NAVER Corp.), Shengzhe Li (Naver Shopping, NAVER Corp.), Yongwoo Cho (Naver Shopping, NAVER Corp.), Hoyean Song (Self-employed), Sunyoung Kwon (Pusan National University): [camera ready](./camera_ready/5.pdf)
 
-**Similarity Search for Efficient Active Learning and Search of Rare Concepts** by Cody Coleman (Stanford), Edward Chou (Facebook), Sean Culatana (Facebook), Peter Bailis (Stanford University), Alexander Berg (University of North Carolina, USA), Roshan Sumbaly (Facebook), Matei Zaharia (Stanford and Databricks), Zeki Yalniz (Facebook): [camera ready](./camera_ready/6.pdf)
+**Similarity Search for Efficient Active Learning and Search of Rare Concepts** Cody Coleman (Stanford), Edward Chou (Facebook), Sean Culatana (Facebook), Peter Bailis (Stanford University), Alexander Berg (University of North Carolina, USA), Roshan Sumbaly (Facebook), Matei Zaharia (Stanford and Databricks), Zeki Yalniz (Facebook): [camera ready](./camera_ready/6.pdf)
+
+**LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition** Valeriia Cherepanova (University of Maryland), Micah Goldblum (University of Maryland), Harrison Foley (US Naval Academy), Shiyuan Duan (University of Maryland), John Dickerson (University of Maryland), Gavin Taylor (US Naval Academy), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/8.pdf)
+
+**Just How Toxic is Data Poisoning? A Benchmark for Backdoor and Data Poisoning Attacks** Avi Schwarzschild (University of Maryland), Micah Goldblum (University of Maryland), Arjun Gupta (University of Maryland College Park), John Dickerson (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/10.pdf)
+
+**PrivFramework: A System for Configurable and Automated Privacy Policy Compliance** Usmann Khan (Georgia Institute of Technology), Lun Wang (University of California, Berkeley), Joseph Near (University of Vermont), Dawn Song (UC Berkeley): [camera ready](./camera_ready/12.pdf)
+
+**Backdoor Attacks to Graph Neural Networks** Zaixi Zhang (Duke University), Jinyuan Jia (Duke University ), Binghui Wang (Duke University), Neil Zhenqiang Gong (Duke University): [camera ready](./camera_ready/13.pdf)
+
+**Open-sourced Dataset Protection via Backdoor Watermarking** Yiming Li (Tsinghua University), Ziqi Zhang (Tsinghua University), Jiawang Bai (Tsinghua University), Baoyuan Wu (The Chinese University of Hong Kong, Shenzhen, Shenzhen Research Institute of Big Data), Yong Jiang (Tsinghua University), Shutao Xia (Tsinghua University): [camera ready](./camera_ready/14.pdf)
+
+**Interpolating noisy datasets hurts adversarial robustness** Amartya Sanyal (University of Oxford), Puneet Dokania (University of Oxford), Varun Kanade (University of Oxford), Philip Torr (University of Oxford): [camera ready](./camera_ready/15.pdf)
+
+**Stealthy Poisoning Attack on Certified Robustness** Akshay Mehra (Tulane University), Bhavya Kailkhura (Lawrence Livermore National Laboratory), Pin-Yu Chen (IBM Research AI), Jihun Hamm (Tulane University): [camera ready](./camera_ready/16.pdf)
+
+**Provably Robust Defenses against Data Poisoning Attacks via Ensemble Methods** Jinyuan Jia (Duke University ), Xiaoyu Cao (Duke University), Neil Zhenqiang Gong (Duke University): [camera ready](./camera_ready/17.pdf)
+
+**Evaluating Gender Bias in Natural Language Inference** Shanya Sharma (Walmart Labs), Manan Dey (SAP LABS), Koustuv Sinha (McGill University): [camera ready](./camera_ready/19.pdf)
+
+**GARFD: Gradient-based AutoRegressive Forecaster Defense** Mackenzie Stein (Amherst College), Scott Alfeld (Amherst College): [camera ready](./camera_ready/22.pdf)
+
+**Dataset Inference: Ownership Resolution in Machine Learning** Pratyush Maini (IIT Delhi), Mohammad Yaghini (University of Toronto), Nicolas Papernot (University of Toronto and Vector Institute): [camera ready](./camera_ready/23.pdf)
+
+**Differential Privacy with Mixup** Eitan Borgnia (University of Maryland), Micah Goldblum (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/25.pdf)
+
+**The Dataset Nutrition Label (2nd Gen): LeveragingContext to Mitigate Harms in Artificial Intelligence** Kasia Chmielinski (Berkman Klein Center at Harvard University), Sarah Newman (metaLAB/Berkman Klein Center, Harvard University), Matt Taylor (Data Nutrition Project), Josh Joseph (MIT), Kemi Thomas (Data Nutrition Project), Jessica Yurkofsky (Massachusetts College of Liberal Arts), Yue Chelsea Qiu (AIM Group International): [camera ready](./camera_ready/26.pdf)
+
+**Ethical Testing in the Real World: Evaluating Physical Testing of Adversarial Machine Learning** Ram Shankar Siva Kumar (Microsoft (Azure Security), Berkman Klein Center for Internet and Society at Harvard University), Maggie Delano (Swarthmore College), Kendra Albert (Harvard Law School ), Afsaneh Rigot (ARTICLE 19), Jonathon Penney (Citizen Lab (University of Toronto) / Dalhousie / Princeton CITP): [camera ready](./camera_ready/27.pdf)
+
+**Pervasive Label Errors in ML Benchmark Test Sets, Consequences, and Benefits** Curtis Northcutt (MIT), Anish Athalye (Massachusetts Institute of Technology), Jessy Lin (Berkeley): [camera ready](./camera_ready/28.pdf)
+
+**Bait and Switch: Online Training Data Poisoning of Autonomous Driving Systems** Naman Patel (NYU), Prashanth Krishnamurthy (NYU Tandon School of Engineering), Siddharth Garg (New York University), Farshad khorrami (NYU): [camera ready](./camera_ready/31.pdf)
+
+**Open4Business (O4B): An Open Access Dataset for Summarizing Business Documents** Singh Amanpreet (Stony Brook University), Niranjan Balasubramanian (stony brook): [camera ready](./camera_ready/32.pdf)
+
+**Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching** Jonas Geiping (University of Siegen), Liam Fowl (University of Maryland), W. Ronny Huang (Google Research), Wojciech Czaja (University of Maryland, College Park), Gavin Taylor (US Naval Academy), Michael Moeller (University of Siegen), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/34.pdf)
+
+**MetaPoison: Practical General-purpose Clean-label Data Poisoning** W. Ronny Huang (Google Research), Jonas Geiping (University of Siegen), Liam Fowl (University of Maryland), Gavin Taylor (US Naval Academy), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/35.pdf)
+
+**Measuring Bias with Wasserstein Distance** Mark Kwegyir-Aggrey (Brown University), Sarah Brown (Brown University): [camera ready](./camera_ready/37.pdf)
+
+**Random Network Distillation as a Diversity Metric for Both Image and Text Generation** Liam Fowl (University of Maryland), Micah Goldblum (University of Maryland, College Park), Arjun Gupta (University of Maryland College Park), Amr Sharaf (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/39.pdf)
+
+**On Evaluating Neural Network Backdoor Defenses** Akshaj Kumar Veldanda (New York University), Siddharth Garg (New York University): [camera ready](./camera_ready/40.pdf)
+
+**Data Sharing in Wellness, Accessibility, and Aging** Hernisa Kacorri (University of Maryland, College Park), Utkarsh Dwivedi (University of Maryland, College Park), Rie Kamikubo (University of Maryland, College Park): [camera ready](./camera_ready/41.pdf)
+
+**Data Valuation for Acoustic Models in Automatic Speech Recognition** Ali Syed (The Graduate Center, CUNY), Michael Mandel (Brooklyn College, CUNY): [camera ready](./camera_ready/42.pdf)
+
+**A New Large-scale Video Dataset for Human Fall Detection** Anahita Shojaei (University of British Columbia), Panos Nasiopoulos (University of British Columbia), Mahsa Pourazad (TELUS): [camera ready](./camera_ready/44.pdf)
 
 <!-- ## Program Committee
 To be determined... -->
