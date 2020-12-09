@@ -1,6 +1,6 @@
 # Workshop on Dataset Curation and Security - NeurIPS 2020, December 11th
 
-**Update: Poster Session will be on Friday at 2:30pm to conclude the main conference.**
+**Update: Poster Session will be on Friday at 2:30pm after the conclusion of the invited talks..**
 
 Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
 
