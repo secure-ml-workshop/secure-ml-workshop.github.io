@@ -110,6 +110,8 @@ The submission deadline is ~~Sunday October 11th, 2020~~ Thursday, October 15th,
 
 **GARFD: Gradient-based AutoRegressive Forecaster Defense** Mackenzie Stein (Amherst College), Scott Alfeld (Amherst College): [camera ready](./camera_ready/22.pdf)
 
+**Pervasive Label Errors in ML Benchmark Test Sets, Consequences, and Benefits** Curtis G. Northcutt (MIT), Anish Athalye (MIT), Jessy Lin (University of California, Berkeley): [camera ready](./camera_ready/28.pdf)
+
 **Dataset Inference: Ownership Resolution in Machine Learning** Pratyush Maini (IIT Delhi), Mohammad Yaghini (University of Toronto), Nicolas Papernot (University of Toronto and Vector Institute): [camera ready](./camera_ready/23.pdf)
 
 **Differential Privacy with Mixup** Eitan Borgnia (University of Maryland), Micah Goldblum (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/25.pdf)
