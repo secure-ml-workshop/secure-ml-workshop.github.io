@@ -1,6 +1,24 @@
 # Workshop on Dataset Curation and Security - NeurIPS 2020, December 11th
 
-**Update: Poster Session will be on Friday at 2:30pm after the conclusion of the invited talks..**
+## Workshop Schedule (times ET)
+
+The workshop can be viewed (requires NeurIPS login) [here](https://neurips.cc/virtual/2020/protected/workshop_16162.html).
+
+| Time    	| Speaker   	     | Title            	|
+|---------	|-----------	     |------------------	|
+| 9:00 am 	| Dawn Song 	     |   	|
+| 9:30am    | Aleksander Madry | What Do Our Models Learn? 	|
+| 10:00am   | Discussion | |
+| 10:15am   | Break | |
+| 10:30am | Darrell West | |
+| 11:00am	| Yejin Choi          	|   Adversarial, Socially Aware, and Commonsensical Data   	| 
+| 11:30am   | Discussion | |
+| 11:45am   | Lunch Break | |
+| 1:00pm    | Rob Nowak | Dataset Curation via Active Learning |
+| 1:30pm | Liz O'Sullivan | Don't Steal Data |
+| 2:30pm | Poster Session | |
+
+**Poster Session will be on Friday at 2:30pm after the conclusion of the invited talks..**
 
 Classical machine learning research has been focused largely on models,  optimizers,  and computational challenges. As technical progress and hardware advancements ease these challenges, practitioners are now finding that the limitations and faults of their models are the result of their datasets. This is particularly true of deep networks, which often rely on huge datasets that are too large and unwieldy for domain experts to curate by hand. We invite those interested to contribute in the discussion around dataset curation and security.
 
@@ -122,16 +140,4 @@ The submission deadline is ~~Sunday October 11th, 2020~~ Thursday, October 15th,
 
 **A New Large-scale Video Dataset for Human Fall Detection** Anahita Shojaei (University of British Columbia), Panos Nasiopoulos (University of British Columbia), Mahsa Pourazad (TELUS): [camera ready](./camera_ready/44.pdf)
 
-<!-- ## Program Committee
-To be determined... -->
-
-<!-- ## Workshop Schedule -->
-
-<!-- ### Day One  -->
-
-<!-- | Time    	| Speaker   	| Title            	|
-|---------	|-----------	|------------------	|
-| 9:00 am 	| Dawn Song 	| Dataset Security 	|
-|         	|           	|                  	|
-|         	|           	|                  	| -->
 
