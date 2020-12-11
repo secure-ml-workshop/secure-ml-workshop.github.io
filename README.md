@@ -114,7 +114,7 @@ The submission deadline is ~~Sunday October 11th, 2020~~ Thursday, October 15th,
 
 **Dataset Inference: Ownership Resolution in Machine Learning** Pratyush Maini (IIT Delhi), Mohammad Yaghini (University of Toronto), Nicolas Papernot (University of Toronto and Vector Institute): [camera ready](./camera_ready/23.pdf)
 
-**Differential Privacy with Mixup** Eitan Borgnia (University of Maryland), Micah Goldblum (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/25.pdf)
+<!--**Differential Privacy with Mixup** Eitan Borgnia (University of Maryland), Micah Goldblum (University of Maryland), Tom Goldstein (University of Maryland, College Park): [camera ready](./camera_ready/25.pdf)-->
 
 **The Dataset Nutrition Label (2nd Gen): LeveragingContext to Mitigate Harms in Artificial Intelligence** Kasia Chmielinski (Berkman Klein Center at Harvard University), Sarah Newman (metaLAB/Berkman Klein Center, Harvard University), Matt Taylor (Data Nutrition Project), Josh Joseph (MIT), Kemi Thomas (Data Nutrition Project), Jessica Yurkofsky (Massachusetts College of Liberal Arts), Yue Chelsea Qiu (AIM Group International): [camera ready](./camera_ready/26.pdf)
 
